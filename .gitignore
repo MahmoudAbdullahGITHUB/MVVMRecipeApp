@@ -1,3 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
 # Built application files
 *.apk
 *.ap_
@@ -33,12 +47,27 @@ proguard/
 captures/
 
 # Intellij
-*.iml
 .idea/workspace.xml
 .idea/
 .idea/tasks.xml
 .idea/libraries
+buildSrc/build/
 
-# External native build folder generated in Android Studio 2.2 and later
-.externalNativeBuild
-local.properties
+
+
+
+#*.iml
+#.gradle
+#/local.properties
+#/.idea/caches
+#/.idea/libraries
+#/.idea/modules.xml
+#/.idea/workspace.xml
+#/.idea/navEditor.xml
+#/.idea/assetWizardSettings.xml
+#.DS_Store
+#/build
+#/captures
+#.externalNativeBuild
+#.cxx
+#local.properties
