@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# MVVMRecipeApp
-Main Features Kotlin MVVM Jetpack Compose MutableState Simpler than LiveData or Flow with respect to composables. Hilt Navigation Components Retrofit2 Single Activity Architecture App Themes Custom Fonts Light and Dark theme Toggle between themes
-=======
 # A Modern Android App with Kotlin and Jetpack Compose
 
 # Main Features
@@ -14,7 +10,7 @@ Main Features Kotlin MVVM Jetpack Compose MutableState Simpler than LiveData or 
 1. Navigation Components
 1. Retrofit2
 1. Single Activity Architecture
-1. App Themes
+1. App Temes
 1. Custom Fonts
 1. Light and Dark theme
 	- Toggle between themes
