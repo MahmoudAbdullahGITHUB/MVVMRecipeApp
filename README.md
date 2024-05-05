@@ -7,6 +7,7 @@
 1. MutableState
 	- Simpler than LiveData or Flow with respect to composables.
 1. Hilt
+1. Live Data
 1. Navigation Components
 1. Retrofit2
 1. Single Activity Architecture
