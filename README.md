@@ -32,4 +32,21 @@
 11. AppBar
 12. Circular Progress Indicator
 
->>>>>>> 81589137e88680ca2326ce9a0cb836b0b6b1bf38
+
+<br>
+<br>
+<p align="center">
+  <img src="https://github.com/MahmoudAbdullahGITHUB/MVVMRecipeApp/assets/50070223/9579a4bc-df5a-467d-8d91-0748365806a5.png" width="250"/>
+  <img src="https://github.com/MahmoudAbdullahGITHUB/MVVMRecipeApp/assets/50070223/b1878849-9cd8-4744-bb47-c3fc0873b671.png" width="250"/>
+  <img src="https://github.com/MahmoudAbdullahGITHUB/MVVMRecipeApp/assets/50070223/60ec4e40-7b7a-4f46-8156-a46521bddbc8.png" width="250"/>
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/MahmoudAbdullahGITHUB/MVVMRecipeApp/assets/50070223/296b3cae-1d23-44c4-8bf3-683bf2a77c04.png" width="250"/>
+  <img src="https://github.com/MahmoudAbdullahGITHUB/MVVMRecipeApp/assets/50070223/3b13af7d-ea05-4c43-bb48-153a84f017e5.png" width="250"/>
+  <img src="https://github.com/MahmoudAbdullahGITHUB/MVVMRecipeApp/assets/50070223/c8e42878-2dc2-48eb-9983-ab17a142464a.png" width="250"/>
+</p>
+<br>
+
+
+>>>>>>> Compose
